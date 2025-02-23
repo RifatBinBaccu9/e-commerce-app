@@ -8,7 +8,8 @@ import { FaArrowLeftLong } from "react-icons/fa6";
 export default function NotFound(){
   return (
     <div>
-      <Navbar />
+      <Navbar /> 
+      {/* not found */}
       <div className="container flex flex-col justify-center items-center mt-2 mb-[124px]">
       <Image src={"/notFound.png"} alt="notFound" width={500} height={500} />
       <h1 className="text-[36px] font-semibold ">404, Page not founds</h1>
