@@ -3,7 +3,7 @@ import Footer from "./components/layout/footer";
 import Navbar from "./components/layout/navbar";
 
 export const metadata = {
-  title: "M Shop",
+  title: "Normal Shop",
   description: "A shop where you can get all items here",
 };
 

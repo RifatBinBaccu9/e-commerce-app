@@ -80,7 +80,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between container gap-4">
           <Link href={'/'} className="flex items-center gap-2 text-white font-bold text-3xl">
             <FaBagShopping className="text-yellow-500" />
-            <span>MStore</span>
+            <span>Normal Shop</span>
           </Link>
           <div className="bg-white sm:flex hidden items-center gap-2 px-2 w-[653px] rounded-[4px]">
             <Input
